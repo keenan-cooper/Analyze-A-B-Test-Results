@@ -44,5 +44,5 @@ Here I wanted to become familiar with using the following statistical techniques
 - In short, based on the data available, I did not have sufficient evidence to suggest that the new page resulted in more conversions than the old page. So the company should **not** implement this new page but rather **keep** the old page.
 
 ### 6. Acknowledgements<a id="acknowledgements"></a>
-This project was completed as part of the Udacity's [Data Analyst Nanodegree](https://github.com/keenan-cooper/WeRateDogs-Twitter-Data-from-2015-to-2017/files/7847764/nd002-syllabus_2018-June_v9.pdf).\
+This project was completed as part of the Udacity's [Data Analyst Nanodegree](https://github.com/keenan-cooper/WeRateDogs-Twitter-Data-from-2015-to-2017/files/7847764/nd002-syllabus_2018-June_v9.pdf).
 
